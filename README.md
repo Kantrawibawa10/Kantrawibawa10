@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="500">
+    <img src="https://gifdb.com/gif/cartoon-astronaut-riding-rocket-s7aa58drlykvoyzc.html" width="500">
 </div>
 <h1 align="center">Hi 👋, I'm Kantra Wibawa</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
