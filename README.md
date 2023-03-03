@@ -1,4 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rio)
+<div align="center">
+  <img src="[https://user-images.githubusercontent.com/69377855/190953392-bb1894fb-6983-49d7-8e78-3ec3dc4bb139.jpg](https://komarev.com/ghpvc/?username=kantrawibawa10&label=Profile%20views&color=0e75b6&style=flat)">
+</div>
 <h1 align="center">Hi 👋, I'm Kantra Wibawa</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="400">
