@@ -1,4 +1,4 @@
-<img width="800" height="400" src="https://gifdb.com/images/file/cartoon-astronaut-riding-rocket-s7aa58drlykvoyzc.gif">
+<img width="850" height="500" src="https://gifdb.com/images/file/cartoon-astronaut-riding-rocket-s7aa58drlykvoyzc.gif">
 <h1 align="center">Hi 👋, I'm Kantra Wibawa</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="400">
