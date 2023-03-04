@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Kantrawibawa10/Kantrawibawa10/master/banner.png">
+<img src="https://raw.githubusercontent.com/Kantrawibawa10/Kantrawibawa10/master/banner.jpg">
 <h1 align="center">Hi 👋, I'm Kantra Wibawa</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="400">
