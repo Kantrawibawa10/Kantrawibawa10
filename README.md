@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://twitter.com/un2ifine4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="un2ifine4" height="30" width="40" /></a>
 <a href="https://fb.com/kantrawibawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kantrawibawa" height="30" width="40" /></a>
-<a href="https://instagram.com/un2ifine4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="un2ifine4" height="30" width="40" /></a>
+<a href="https://instagram.com/un2fine4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="un2ifine4" height="30" width="40" /></a>
 <a href="https://discord.gg/un2ifine4#5964" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="un2ifine4#5964" height="30" width="40" /></a>
 </p>
 
