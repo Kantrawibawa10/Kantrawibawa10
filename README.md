@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="400">
 
-<p align="left"> <img src="https://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif" alt="kantrawibawa10" /> </p>
 
 <p align="left"> <a href="https://twitter.com/un2ifine4" target="blank"><img src="https://img.shields.io/twitter/follow/un2ifine4?logo=twitter&style=for-the-badge" alt="un2ifine4" /></a> </p>
 
