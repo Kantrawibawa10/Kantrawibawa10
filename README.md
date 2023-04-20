@@ -1,4 +1,4 @@
-<p align="center"><img src="https://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif" alt="kantrawibawa10" width="200"/></p>
+<p align="center"><img src="https://www.thisiscolossal.com/wp-content/uploads/2014/03/120430.gif" alt="kantrawibawa10" width="400"/></p>
 <h1 align="center">Hi 👋, I'm Kantra Wibawa</h1>
 <h3 align="center">A passionate Fullstack developer from Indonesia🇮🇩</h3>
 <img align="right" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" alt="Coding" width="400">
